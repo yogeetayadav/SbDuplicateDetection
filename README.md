@@ -1,4 +1,4 @@
-# SbDuplicateDetection
+# Azure Service Bus Message DuplicateDetection
 
 This sample demonstrate how duplicate detection works in azure service bus queues.
 
